@@ -1,3 +1,5 @@
+![Final Fantasy TRPG: Legend Edition](media/ffle-logo.png)
+
 # Final Fantasy TRPG: Legend Edition — Foundry VTT system
 
 An unofficial Foundry VTT game system for **Final Fantasy TRPG: Legend Edition**. It includes character sheets, guided character creation, a Codex, a Bestiary, equipment tools, and automated rolls and effects.
