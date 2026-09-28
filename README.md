@@ -20,12 +20,14 @@ Foundry will offer an **Update** whenever a new version is released.
 
 To install by hand instead, download `final-fantasy-legends-edition.zip` from the [latest release](https://github.com/VisCorpRS/ffle-releases/releases/latest) and extract it into Foundry's `Data/systems/final-fantasy-legends-edition` folder. Restart Foundry and pick the system when creating or configuring a world.
 
-## Compatibility
+**Compatibility**
 
-This module includes animations for certain abilities and spells. 
-This functionality is optional, but to install them you need:
-Sequencer - https://foundryvtt.com/packages/sequencer
-JB2A - Jules&Ben's Animated Assets - https://foundryvtt.com/packages/JB2A_DnD5e
+This system includes optional animations for certain abilities and spells. To enable them, install the following Foundry VTT modules:
+
+[Sequencer](https://foundryvtt.com/packages/sequencer) — Required for animation playback.
+[JB2A – Jules & Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) — Provides the animated assets used by the system.
+
+These modules are entirely optional. The system can be used without them, but the associated animations will not be available.
 
 ## Credits and attribution
 
@@ -43,7 +45,19 @@ Final Fantasy TRPG: Legend Edition is licensed by its creators under [CC BY-NC-S
 
 Final Fantasy and associated characters and trademarks are the property of Square Enix Co., Ltd. This is an unofficial fan-made implementation and is not affiliated with or endorsed by Square Enix.
 
+**Third-Party Modules and Licensing**
+
+Sequencer and JB2A are independent, third-party projects. They are not part of this system, and their respective creators retain ownership of their work. Each is distributed under its own license and is subject to its creators' terms and conditions.
+
+Their inclusion in this README does not imply any ownership, affiliation, or endorsement. Their licenses are separate from the license governing this system, and any use or redistribution of their components is subject to their respective licensing terms.
+
+
 ## About
 
-Thank you for trying this module out. This was originally designed for a friend and her campaign, but realizing that this can be useful for others I decided in the spirit of open-source, to share this with everyone. This system is free and always will be. Though If you enjoy my work and want to support future Foundry projects, feel free to follow/support me and check for any other upcoming projects. [GitHub profile](https://github.com/VisCorpRS).
-As always, as with the above stated license, you may feel free to take and modify this module.
+Thank you for checking out this module!
+
+This project originally began as something I made for a friend's campaign. Over time, I realized it could be useful to others as well, so I decided to share it with the community in the spirit of open source.
+
+This system is free and will always remain free. If you enjoy my work and would like to support my future Foundry projects, feel free to follow me on [GitHub](https://github.com/VisCorpRS), where you can also keep an eye out for other projects.
+
+You're also welcome to take this module, modify it, and build upon it, as long as you respect the terms of the license above.
