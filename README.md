@@ -25,6 +25,7 @@ To install by hand instead, download `final-fantasy-legends-edition.zip` from th
 This system includes optional animations for certain abilities and spells. To enable them, install the following Foundry VTT modules:
 
 [Sequencer](https://foundryvtt.com/packages/sequencer) — Required for animation playback.
+
 [JB2A – Jules & Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) — Provides the animated assets used by the system.
 
 These modules are entirely optional. The system can be used without them, but the associated animations will not be available.
